@@ -1,4 +1,4 @@
-<h1>Oofs Of Robloxia Frequently Asked Questions</h1>
+<h1>Oofs Of Robloxia FAQ</h1>
 <p>Got a question? Get it answered here!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
