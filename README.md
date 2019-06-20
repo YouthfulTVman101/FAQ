@@ -1,4 +1,6 @@
 <h1>Oofs Of Robloxia Frequently Asked Questions</h1>
+<p>Got a question? Get it answered here!</p>
+To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
 <h4>I have a great idea for this server, how do I let the staff team know?</h4>
 Answer: Please post any suggestions on our suggestions channel
