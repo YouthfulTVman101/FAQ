@@ -3,6 +3,8 @@
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
 <h2>Frequently Asked Questions</h2>
+<h3>How do I get a question added here?</h3>
+Answer: Post it to our suggestions channel, there's a good chance that it'll be added!
 
 <h4>I have a great idea for this server, how do I let the staff team know?</h4>
 Answer: Please post any suggestions on our suggestions channel
