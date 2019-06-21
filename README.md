@@ -35,7 +35,12 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 
 <h4>How do I set up my birthday?</h4>
 <ul>
-  <li>Answer: Please use the command bb.set month-dd (the month is the first 3 characters of any month, if that doesn't work please type the full month or capitalize the first letter)</li>
+  <li>Answer: Please use the command bb.set month-dd in the birthday setup channel</li>
+</ul>
+
+<h4>I keep messing up the birthday command! How do you use it?</h4>
+<ul>
+  <li>Answer: Use the first 3 letters of the month, you may need to capitalize the first letter</li>
 </ul>
 
 <h4>Do you need my Roblox password for account verification?</h4>
