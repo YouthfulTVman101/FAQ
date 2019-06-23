@@ -25,7 +25,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 
 <h4>Can I invite my friends here?</h4>
 <ul>
-  <li>Answer: Of course! The more the merrier!</li>
+  <li>Answer: Of course, you can even get cool roles for doing so!</li>
 </ul>
 
 <h4>Help! I've gotten the Naughty Oofs Role!</h4>
